@@ -1,6 +1,6 @@
 {
   "vars": {
-    "@gray-base": "#000",
+    "@gray-base": "#333",
     "@gray-darker": "lighten(@gray-base, 13.5%)",
     "@gray-dark": "lighten(@gray-base, 20%)",
     "@gray": "lighten(@gray-base, 33.5%)",
@@ -146,10 +146,10 @@
     "@navbar-padding-horizontal": "floor((@grid-gutter-width / 2))",
     "@navbar-padding-vertical": "((@navbar-height - @line-height-computed) / 2)",
     "@navbar-collapse-max-height": "340px",
-    "@navbar-default-color": "#000",
+    "@navbar-default-color": "#ff0000",
     "@navbar-default-bg": "#f8f8f8",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
-    "@navbar-default-link-color": "#fff",
+    "@navbar-default-link-color": "#6699ff",
     "@navbar-default-link-hover-color": "#333",
     "@navbar-default-link-hover-bg": "transparent",
     "@navbar-default-link-active-color": "#fff",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=bba08d02dbb4358b258db91c595440c5"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=f5191033a07ee208798f1e2537643722"
 }
