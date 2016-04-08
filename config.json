@@ -147,7 +147,7 @@
     "@navbar-padding-vertical": "((@navbar-height - @line-height-computed) / 2)",
     "@navbar-collapse-max-height": "340px",
     "@navbar-default-color": "#ff0000",
-    "@navbar-default-bg": "#f8f8f8",
+    "@navbar-default-bg": "#000",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
     "@navbar-default-link-color": "#6699ff",
     "@navbar-default-link-hover-color": "#333",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=f5191033a07ee208798f1e2537643722"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=dc20603cc34a616fdca82d4d4b9d87a5"
 }
