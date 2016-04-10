@@ -13,3 +13,10 @@ h3 {
 .jumbotron p {
   color: #000;
 }
+.jumbotron img {
+  margin-top: 20px;
+}
+.jumbotron h1 {
+  text-align: center;
+  margin-top: 40px;
+}
