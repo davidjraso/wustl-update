@@ -25,3 +25,13 @@ h3 {
   margin-top: 90px;
   font-size: 200%;
 }
+
+h4 {
+  color: #999;
+}
+
+.modal-body p {
+  color: #999;
+}
+}
+}
