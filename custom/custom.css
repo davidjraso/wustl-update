@@ -5,9 +5,8 @@ h2 {
 }
 
 h3 {
-  color: #999;
-  font-size: 1em;
-  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.3em;
 }
 
 .jumbotron p {
@@ -36,9 +35,4 @@ h4 {
 
 a {
   color:#000;
-}
-
-#about {
-  text-align: left;
-  color: #fff;
 }
