@@ -28,10 +28,7 @@ h4 {
 #jumboMain {
   margin-top: 90px;
   font-size: 200%;
-}
-
-h4 {
-  color: #000;
+  text-align: center;
 }
 
 .modal-body p {
